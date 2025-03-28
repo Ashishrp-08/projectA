@@ -1,0 +1,4 @@
+Model,Accuracy (%)
+Logistic Regression,97.37
+Random Forest,96.49
+SVM,98.25
